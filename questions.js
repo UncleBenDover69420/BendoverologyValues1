@@ -101,7 +101,7 @@ questions = [
     {
         "question": "It is important to embrace your culture.",
         "effect": {
-            "econ": -10,
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -209,7 +209,7 @@ questions = [
     {
         "question": "I have a favorite God Rapist other than Ben Dover.",
         "effect": {
-            "econ": 10,
+            "econ": -10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
